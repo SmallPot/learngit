@@ -1,6 +1,6 @@
 
 
-function getStyle(obj, name,cc,bb)
+function getStyle(obj, name)
 {
 	if(obj.currentStyle)
 	{
