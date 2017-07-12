@@ -1,4 +1,7 @@
 
+function aaa(){
+	
+}
 
 function getStyle(obj, name)
 {
